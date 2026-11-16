@@ -1,0 +1,7 @@
+#Robocode robot team
+#Sun Nov 15 19:04:01 GMT-03:00 2026
+robocode.version=1.12.0
+team.author.name=
+team.description=Time de tanques da equipe Paragon criado para atividade de Hugo
+team.members=paragon.Dummy*,paragon.Guardian*
+team.version=V2
